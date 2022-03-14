@@ -2,7 +2,6 @@
 // 기능 개발
 // https://programmers.co.kr/learn/courses/30/lessons/42586
 // Created by 박지수 on 2022/03/14.
-
 #include <iostream>
 #include <algorithm>
 #include <string>
